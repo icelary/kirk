@@ -6,7 +6,7 @@
 
 Charlie set up booths at college campuses and invited students to debate on any topic. On September 10, 2025, as the first stop in [The American Comeback Tour](https://www.americancomebacktour.com/), he was at [Utah Valley University](https://www.uvu.edu/) (UVU) in Orem, Utah.
 
-A questioner approached the microphone and raised the topic of transgender mass shooters. They had a short exchange:
+A questioner approached the microphone and raised the topic of transgender mass shooters. They had [a short exchange](https://archive.is/W6wv2):
 
 > Questioner: Do you know how many transgender Americans have been mass shooters over the last 10 years?  
 > Kirk: Too many.  
