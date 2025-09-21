@@ -14,3 +14,7 @@ A questioner approached the microphone and raised the topic of transgender mass 
 > Kirk: Counting or not counting gang violence?
 
 At this point a shot was fired that hit Charlie Kirk in the neck. He was rushed to the hospital. Shortly after 2 PM, he was pronounced dead.
+
+## Aftermath
+
+Some online material seemed to indicate [foreknowledge](foreknowledge.md) of the attack.
