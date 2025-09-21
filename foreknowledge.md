@@ -17,7 +17,7 @@ Not long after the shooting, they quote tweeted and added:
   <img src="img/altulige-tweet.jpeg" />
 </details>
 
-The account had [many similar posts](https://archive.is/jCWKh). This user made a long series of non-specific predictions until something significant happened which gave the one matching post a false sense of foreboding.
+The account [had many similar posts](https://archive.is/jCWKh). This user made a long series of non-specific predictions until something significant happened which gave the one matching post a false sense of foreboding.
 
 <details>
   <summary>Similar tweets</summary>
