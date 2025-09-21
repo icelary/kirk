@@ -1,5 +1,11 @@
 # Changelog
 
+## 2025-09-21
+
+### Change
+
+- Use compact image of victim ([`768fd1a`](https://github.com/icelary/kirk/commit/768fd1a54d94f877394b4c2808de40b134a57dd4)) ([@icelary](https://github.com/icelary))
+
 ## 2025-09-20
 
 ### Added
