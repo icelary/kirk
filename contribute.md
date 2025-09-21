@@ -1,3 +1,5 @@
+# Contributing
+
 This report is a collaborative effort following the [Revision-Controlled Journalism](https://einzelgaengerinmotte.wordpress.com/wp-content/uploads/2018/02/revision-controlled_journalism_v2.pdf) (RCJ) model. Please submit information and corrections to improve it! To make a submission, [open a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) in the [repository](https://github.com/icelary/kirk).
 
 Also see [a mature report](https://github.com/Enegnei/JacobAppelbaumLeavesTor/blob/master/JacobAppelbaumLeavesTor.md) on a previous event as an example of the goal.
