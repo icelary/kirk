@@ -1,1 +1,1 @@
-Report on the murder of Charlie Kirk.
+[RCJ](https://einzelgaengerinmotte.wordpress.com/wp-content/uploads/2018/02/revision-controlled_journalism_v2.pdf) report on the assassination of Charlie Kirk.
