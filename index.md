@@ -1,5 +1,7 @@
 [RCJ](https://einzelgaengerinmotte.wordpress.com/wp-content/uploads/2018/02/revision-controlled_journalism_v2.pdf) report on the assassination of Charlie Kirk.
 
+![Charlie Kirk](img/charlie-kirk.jpg)
+
 ## Incident
 
 Charlie set up booths at college campuses and invited students to debate on any topic. On September 10, 2025, as the first stop in [The American Comeback Tour](https://www.americancomebacktour.com/), he was at [Utah Valley University](https://www.uvu.edu/) (UVU) in Orem, Utah.
