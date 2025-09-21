@@ -1,6 +1,6 @@
 [RCJ](https://einzelgaengerinmotte.wordpress.com/wp-content/uploads/2018/02/revision-controlled_journalism_v2.pdf) report on the assassination of Charlie Kirk. [Contribute](contribute.md) information and corrections.
 
-![Charlie Kirk](img/charlie-kirk.jpg)
+<img src="img/charlie-kirk.jpg" alt="Charlie Kirk" height="400" />
 
 ## Incident
 
