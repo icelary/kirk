@@ -1,5 +1,3 @@
-# Foreknowledge
-
 Some online posts seemed to indicate foreknowledge of the shooting.
 
 ## altulige
