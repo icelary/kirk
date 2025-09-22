@@ -4,11 +4,11 @@ Some online posts seemed to indicate foreknowledge of the shooting.
 
 ## altulige
 
-The X account [@altulige](https://x.com/altulige) posted on August 6, 2025:
+Over a month before the shooting, an account on X posted:
 
 > september 10th will be a very interesting day
 >
-> -- [@altulige](https://x.com/altulige)
+> -- [@altulige](https://x.com/altulige) (August 6, 2025)
 
 Not long after the shooting, they quote tweeted and added:
 
