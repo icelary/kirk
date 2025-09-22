@@ -7,10 +7,14 @@ Some online posts seemed to indicate foreknowledge of the shooting.
 The X account [@altulige](https://x.com/altulige) posted on August 6, 2025:
 
 > september 10th will be a very interesting day
+>
+> -- [@altulige](https://x.com/altulige)
 
 Not long after the shooting, they quote tweeted and added:
 
 > I plead the fifth
+>
+> -- [@altulige](https://x.com/altulige)
 
 <details>
   <summary>Suspicious tweets</summary>
