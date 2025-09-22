@@ -26,7 +26,7 @@ A clip of an argument with an audience member.
 
 **Correction**
 
-This was an exchange with left-wing political commentator [Cenk Uygur](https://en.wikipedia.org/wiki/Cenk_Uygur) who was in the audience. The word interpreted as a slur was the name Cenk.
+This was an exchange with left-wing political commentator [Cenk Uygur](https://en.wikipedia.org/wiki/Cenk_Uygur) who was in the audience. The word interpreted as a slur was the name Cenk (pronounced _chenk_).
 
 > I live like a capitalist every single day, Cenk. I live as a capitalist.
 >
