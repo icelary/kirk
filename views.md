@@ -11,7 +11,7 @@ Charlie called an Asian [chink](https://en.wiktionary.org/wiki/Chink).
 > [Charlie Kirk] referred to Asian individuals by the C-word: a word too violent for me to even utter.
 
 <details>
-  <summary>Claim video</summary>
+  <summary>Video</summary>
   <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/apyCJlSm4Q4?disablekb=1&start=141&end=145" allow="fullscreen"></iframe>
 </details>
 
@@ -20,7 +20,7 @@ Charlie called an Asian [chink](https://en.wiktionary.org/wiki/Chink).
 A clip of an argument with an audience member.
 
 <details>
-  <summary>Evidence video</summary>
+  <summary>Video</summary>
   <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/apyCJlSm4Q4?disablekb=1&start=101&end=105" allow="fullscreen"></iframe>
 </details>
 
