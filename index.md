@@ -19,6 +19,8 @@ A questioner approached the microphone and raised the topic of transgender mass 
 
 At this point a shot was fired that hit Charlie Kirk in the neck. He was rushed to the hospital. Shortly after 2 PM, he was pronounced dead.
 
-## Aftermath
+## Investigation
+
+Authorities began an investigation the same day. After a 33 hour manhunt, Tyler Robinson was arrested and charged with the shooting.
 
 Some online material seemed to indicate [foreknowledge](foreknowledge.md) of the attack.
