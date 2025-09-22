@@ -37,8 +37,15 @@ A clip of an argument with an audience member.
 
 **Correction**
 
-This was an exchange with left-wing political commentator [Cenk Uygur](https://en.wikipedia.org/wiki/Cenk_Uygur) who was in the audience. The word interpreted as a slur was the name Cenk (pronounced _chenk_).
+This was an exchange with left-wing political commentator [Cenk Uygur](https://en.wikipedia.org/wiki/Cenk_Uygur). The word interpreted as a slur was the name Cenk (pronounced _chenk_).
 
-> I live like a capitalist every single day, Cenk. I live as a capitalist.
+The incident occurred at Politicon 2018 during [a debate](https://www.youtube.com/watch?v=2RIKm-cOdh0) between Charlie Kirk and Hasan Piker. Cenk was in the audience. Cenk's news program The Young Turks posted the clip with the description: "Charlie Kirk gets triggered by Cenk Uygur at Politicon 2018."
+
+> I live like a capitalist every single day, Cenk! I live as a capitalist, OK! I live what I believe!
 >
-> -- Charlie Kirk
+> -- Charlie Kirk (2018)
+
+<details>
+  <summary>Video</summary>
+  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/_8Dho35c0Vs?disablekb=1" allow="fullscreen"></iframe>
+</details>
