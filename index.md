@@ -2,9 +2,13 @@
 
 <img src="img/charlie-kirk.jpg" alt="Charlie Kirk" height="400" />
 
+## Background
+
+Charlie Kirk was a right-wing political activist. He set up booths on college campuses and invited students to debate on any topic.
+
 ## Incident
 
-Charlie set up booths at college campuses and invited students to debate on any topic. On September 10, 2025, as the first stop in [The American Comeback Tour](https://www.americancomebacktour.com/), he was at [Utah Valley University](https://www.uvu.edu/) (UVU) in Orem, Utah.
+On September 10, 2025, as the first stop in [The American Comeback Tour](https://www.americancomebacktour.com/), Charlie was at [Utah Valley University](https://www.uvu.edu/) (UVU) in Orem, Utah.
 
 A questioner approached the microphone and raised the topic of transgender mass shooters. They had [a short exchange](https://archive.is/W6wv2):
 
