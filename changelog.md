@@ -1,5 +1,19 @@
 # Changelog
 
+## 2025-09-22
+
+### Added
+
+- Add Asian slur claim ([`0697233`](https://github.com/icelary/kirk/commit/0697233b882d1bfabf903ec20449b55498b16998)) ([@icelary](https://github.com/icelary))
+
+### Changed
+
+- Specify Cenk pronunciation ([`57a3ef3`](https://github.com/icelary/kirk/commit/57a3ef3849e36f4a6ca79d2577712d0c30481aba)) ([@icelary](https://github.com/icelary))
+
+### Sourced
+
+- Source Asian slur correction ([`1f4ad3d`](https://github.com/icelary/kirk/commit/1f4ad3db428f0b983ec0c0a4e4b879b93880e1cd)) ([@icelary](https://github.com/icelary))
+
 ## 2025-09-21
 
 ### Added
