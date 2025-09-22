@@ -15,6 +15,17 @@ Charlie called an Asian [chink](https://en.wiktionary.org/wiki/Chink).
   <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/apyCJlSm4Q4?disablekb=1&start=141&end=145" allow="fullscreen"></iframe>
 </details>
 
+> That time Charlie Kirk called an Asian woman in the audience "chink" multiple times.
+>
+> He made millions off of his racism and sexism.
+>
+> -- [@alluring_nyc](https://x.com/alluring_nyc) ([September 10, 2025](https://archive.is/04uQX))
+
+<details>
+  <summary>Tweet</summary>
+  <img src="img/alluring_nyc-claim.png" />
+</details>
+
 **Evidence**
 
 A clip of an argument with an audience member.
