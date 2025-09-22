@@ -2,6 +2,12 @@
 
 ## 2025-09-21
 
+### Added
+
+- Add Background section ([`6fea4de`](https://github.com/icelary/kirk/commit/6fea4dec3c026d3a7602a64725546dd91941c778)) ([@icelary](https://github.com/icelary))
+- Add Investigation section ([`5b42c1f`](https://github.com/icelary/kirk/commit/5b42c1fc3363ffc7ed293b0566b71af8055cdc57)) ([@icelary](https://github.com/icelary))
+- Discuss Asian slur claim ([`43df468`](https://github.com/icelary/kirk/commit/43df468992eaf77b72747518e5faf40aefdb0d0c), [`2355ed3`](https://github.com/icelary/kirk/commit/2355ed310525abd4393294a576d5d053d83380fc)) ([@icelary](https://github.com/icelary))
+
 ### Changed
 
 - Use compact image of victim ([`768fd1a`](https://github.com/icelary/kirk/commit/768fd1a54d94f877394b4c2808de40b134a57dd4)) ([@icelary](https://github.com/icelary))
