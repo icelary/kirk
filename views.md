@@ -8,6 +8,8 @@ Various claims and counterclaims have been made about the views of Charlie Kirk.
 
 Charlie called an Asian [chink](https://en.wiktionary.org/wiki/Chink).
 
+> [Charlie Kirk] referred to Asian individuals by the C-word: a word too violent for me to even utter.
+
 <details>
   <summary>Claim video</summary>
   <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/apyCJlSm4Q4?disablekb=1&start=141&end=145" allow="fullscreen"></iframe>
