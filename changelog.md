@@ -5,6 +5,9 @@
 ### Changed
 
 - Use compact image of victim ([`768fd1a`](https://github.com/icelary/kirk/commit/768fd1a54d94f877394b4c2808de40b134a57dd4)) ([@icelary](https://github.com/icelary))
+- Attribute altulige tweets ([`6606447`])(https://github.com/icelary/kirk/commit/6606447de002508a1619737dea9fa0bd6e61ca14) ([@icelary](https://github.com/icelary))
+- Date altulige tweet ([`d26722c`])(https://github.com/icelary/kirk/commit/d26722cea04f107ed35f947bc8def7385a5cd353) ([@icelary](https://github.com/icelary))
+- Quote similar altulige tweets ([`b32407b`])(https://github.com/icelary/kirk/commit/b32407b03e92fc526ee984132c1a6113638567ef) ([@icelary](https://github.com/icelary))
 
 ## 2025-09-20
 
