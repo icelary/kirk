@@ -6,6 +6,5 @@ titles_from_headings:
   strip_title: true
 
 header_pages:
-  - contribute.md
   - foreknowledge.md
   - views.md
