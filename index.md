@@ -32,4 +32,4 @@ Some online material seemed to indicate [foreknowledge](foreknowledge.md) of the
 
 ## Public Response
 
-Disputes arose over [the views of Charlie Kirk](views.md).
+Disputes arose over [the views of Charlie Kirk](views.md). Some people [celebrated](celebration.md) his murder.
