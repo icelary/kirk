@@ -2,7 +2,7 @@
 
 **Claim**: Charlie called an Asian [chink](https://en.wiktionary.org/wiki/Chink).
 
-## Example
+## Assertion
 
 > [Charlie Kirk] referred to Asian individuals by the C-word: a word too violent for me to even utter.
 
