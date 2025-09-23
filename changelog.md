@@ -1,5 +1,12 @@
 # Changelog
 
+## 2025-09-23
+
+### Added
+
+- Quote engravings ([`6789970`](https://github.com/icelary/kirk/commit/6789970fd7ae3e6e2a255497096da5b4f7f966fe)) ([@icelary](https://github.com/icelary))
+- Add reading of engravings ([`2d7e8fb`](https://github.com/icelary/kirk/commit/2d7e8fb2139d2facd4ca6e27bc6a4496bcc0197a)) ([@icelary](https://github.com/icelary))
+
 ## 2025-09-22
 
 ### Added
