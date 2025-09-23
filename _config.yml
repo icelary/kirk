@@ -6,5 +6,6 @@ titles_from_headings:
   strip_title: true
 
 header_pages:
+  - engravings.md
   - foreknowledge.md
   - views.md
