@@ -1,7 +1,7 @@
-# Shunning
+# Backlash
 
 Backlash arose against those celebrating, mocking, or downplaying the murder.
 
 ## Celebrities
 
-- [Stephen King](shun/stephen-king.md)
+- [Stephen King](backlash/stephen-king.md)

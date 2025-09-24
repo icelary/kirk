@@ -6,8 +6,8 @@ titles_from_headings:
   strip_title: true
 
 header_pages:
+  - backlash.md
   - celebration.md
   - engravings.md
   - foreknowledge.md
-  - shunning.md
   - views.md

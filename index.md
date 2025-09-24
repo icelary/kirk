@@ -32,4 +32,4 @@ Some online material seemed to indicate [foreknowledge](foreknowledge.md) of the
 
 ## Public Response
 
-Disputes arose over [the views of Charlie Kirk](views.md). Some people [celebrated](celebration.md) his murder. Some people [were fired or experienced other backlash](shunning.md) for their response to the event.
+Disputes arose over [the views of Charlie Kirk](views.md). Some people [celebrated](celebration.md) his murder. Some people [were fired or experienced other backlash](backlash.md) for their response to the event.
