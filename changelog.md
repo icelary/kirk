@@ -6,6 +6,8 @@
 
 - Quote engravings ([`6789970`](https://github.com/icelary/kirk/commit/6789970fd7ae3e6e2a255497096da5b4f7f966fe)) ([@icelary](https://github.com/icelary))
 - Add reading of engravings ([`2d7e8fb`](https://github.com/icelary/kirk/commit/2d7e8fb2139d2facd4ca6e27bc6a4496bcc0197a)) ([@icelary](https://github.com/icelary))
+- Add Celebration section ([`8fb0ff3`](https://github.com/icelary/kirk/commit/8fb0ff3de6dc751209da3d024c2d3b9990cd75fb)) ([@icelary](https://github.com/icelary))
+- Discuss Stephen King backlash ([`bb7f196`](https://github.com/icelary/kirk/commit/bb7f1967f762b6fa71c365eb067f98a21a37c0ec), [`47c0c69`](https://github.com/icelary/kirk/commit/47c0c692fd3b20a3d87426d65691d821368516f2)) ([@icelary](https://github.com/icelary))
 
 ## 2025-09-22
 
