@@ -6,7 +6,7 @@ Author Stephen King claimed that Charlie [advocated stoning gays to death]({{ si
 >
 > -- Stephen King
 
-Snopes [rates this claim as false](https://www.snopes.com/fact-check/charlie-kirk-gay-people-stoned/). After an outcry, King deleted the tweet and apologized.
+Snopes [rates this claim as false](https://archive.is/2evTY). After an outcry, King deleted the tweet and apologized.
 
 > I apologize for saying Charlie Kirk advocated stoning gays. What he actually demonstrated was how some people cherry-pick Biblical passages.
 >
