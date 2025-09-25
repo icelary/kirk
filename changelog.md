@@ -1,5 +1,11 @@
 # Changelog
 
+## 2025-09-24
+
+## Added
+
+- Discuss stoning gays claim ([`042d2dc`](https://github.com/icelary/kirk/commit/042d2dc56cd6cec2a4813cc23a89657f4bccaee8)) ([@icelary](https://github.com/icelary))
+
 ## 2025-09-23
 
 ### Added
