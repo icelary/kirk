@@ -1,6 +1,6 @@
 # Stephen King
 
-Author Stephen King claimed that Charlie [advocated stoning gays to death](../view/stoning-gays.md).
+Author Stephen King claimed that Charlie [advocated stoning gays to death]({{ site.baseurl }}{% link view/stoning-gays.md }).
 
 > He advocated stoning gays to death. Just sayin'.
 >
