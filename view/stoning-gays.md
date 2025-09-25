@@ -6,7 +6,7 @@
 
 > He advocated stoning gays to death. Just sayin'.
 >
-> -- [Stephen King](/backlash/stephen-king.md)
+> -- [Stephen King]({{ site.baseurl }}{% link backlash/stephen-king.md %})
 
 > Charlie Kirk suggests gay people should be stoned to death
 >
