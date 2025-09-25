@@ -133,7 +133,7 @@ He advocated acceptance of homosexuals in the conservative movement.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script async src="https://www.instagram.com/embed.js"></script>
 
-## Fact Checking
+## Reassertion
 
 Snopes [rates this claim as false](https://archive.is/2evTY).
 
