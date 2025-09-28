@@ -13,6 +13,20 @@ Released: September 19, 2025
 > The day a single shot rang out  
 > And a bullet paused the Earth
 
+## Charlie, by Jesse Welles
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UCBkt5Nt1wo?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
+
+Released: September 11, 2025
+
+> Well you can't hate the gun  
+> And love the gun that shot your rival
+
+> I heard laughing  
+> I heard glee  
+> But it could have been you  
+> It could have been me
+
 ## Charlie, by Tom MacDonald
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/q8SbeHhNR9k?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
