@@ -13,6 +13,17 @@ Released: September 19, 2025
 > The day a single shot rang out  
 > And a bullet paused the Earth
 
+## How Dare They, by Diesel
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YcyKR0SzCtA?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
+
+Released: September 15, 2025
+
+> Stage lights cold as a winter rain  
+> One breath, one prayer, then the world went strange  
+> Crowd froze up when the thunder cracked  
+> Truth on a mic and a life attacked
+
 ## Charlie, by Jesse Welles
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UCBkt5Nt1wo?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
