@@ -1,5 +1,11 @@
 # Changelog
 
+## 2025-09-27
+
+## Added
+
+- Discuss NajraGalvz tweets ([`b201faf`](https://github.com/icelary/kirk/commit/b201fafb2dec3a57e720c4c6bda8654a868d72db)) ([@icelary](https://github.com/icelary))
+
 ## 2025-09-24
 
 ## Added
