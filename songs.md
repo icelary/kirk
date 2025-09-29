@@ -66,6 +66,16 @@ Released: September 14, 2025
 > And you celebrate in public like you love it  
 > So disgusted
 
+## Forever - by Dohav
+
+Released: September 11, 2025  
+_Produced with AI_
+
+<iframe src="https://suno.com/embed/5a6bc1aa-0e4e-46ed-a622-169c062c2b30" width="560" height="180"></iframe>
+
+> Legends aren't measured by years that they spend  
+> But by causes they champion, the truths they defend
+
 ## Charlie's Torch - by Servant Zero
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/3Be7jCQ5xVs?disablekb=1" allow="fullscreen"></iframe>
