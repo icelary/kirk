@@ -2,7 +2,7 @@
 
 In the wake of the shooting, several tribute songs were released.
 
-## Charlie's Words, by John Schneider
+## Charlie's Words - by John Schneider
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/Tla80FkdxAs?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
 
@@ -13,7 +13,7 @@ Released: September 19, 2025
 > The day a single shot rang out  
 > And a bullet paused the Earth
 
-## How Dare They, by Diesel
+## How Dare They - by Diesel
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YcyKR0SzCtA?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
 
@@ -24,7 +24,7 @@ Released: September 15, 2025
 > Crowd froze up when the thunder cracked  
 > Truth on a mic and a life attacked
 
-## Cowards, by Mesus
+## Cowards - by Mesus
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YYDI9LZ4vx4?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
 
@@ -35,7 +35,7 @@ Released: September 14, 2025
 > And you celebrate in public like you love it  
 > So disgusted
 
-## Charlie, by Jesse Welles
+## Charlie - by Jesse Welles
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UCBkt5Nt1wo?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
 
@@ -49,7 +49,7 @@ Released: September 11, 2025
 > But it could have been you  
 > It could have been me
 
-## Charlie, by Tom MacDonald
+## Charlie - by Tom MacDonald
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/q8SbeHhNR9k?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
 
