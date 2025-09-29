@@ -13,6 +13,15 @@ Released: September 19, 2025
 > The day a single shot rang out  
 > And a bullet paused the Earth
 
+## The Fight - by KillWill
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UoKKBlOVDKU?disablekb=1" allow="fullscreen"></iframe>
+
+Released: September 19, 2025
+
+> The media be claiming he's a fascist spreading hate  
+> So y'all get violent when you know that you can't debate
+
 ## How Dare They - by Diesel
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YcyKR0SzCtA?disablekb=1" allow="fullscreen"></iframe>
