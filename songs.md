@@ -35,6 +35,15 @@ Released: September 14, 2025
 > And you celebrate in public like you love it  
 > So disgusted
 
+## Charlie's Torch - by Servant Zero
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/3Be7jCQ5xVs?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
+
+Released: September 11, 2025
+
+> They tried to extinguish a flame with a stone  
+> But sparks hit the ground and a wildfire's grown
+
 ## Charlie - by Jesse Welles
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UCBkt5Nt1wo?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
