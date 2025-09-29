@@ -24,6 +24,17 @@ Released: September 15, 2025
 > Crowd froze up when the thunder cracked  
 > Truth on a mic and a life attacked
 
+## Cowards, by Mesus
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YYDI9LZ4vx4?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
+
+Released: September 14, 2025
+
+> Two children woke up without Daddy  
+> And a wife without a husband  
+> And you celebrate in public like you love it  
+> So disgusted
+
 ## Charlie, by Jesse Welles
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UCBkt5Nt1wo?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
