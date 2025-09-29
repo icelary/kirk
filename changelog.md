@@ -1,14 +1,25 @@
 # Changelog
 
+## 2025-09-28
+
+### Added
+
+- Add song Charlie by Tom MacDonald ([`7e703d9`](https://github.com/icelary/kirk/commit/7e703d9ba0cc8b29b7899622303b2dfbc726ea65)) ([@icelary](https://github.com/icelary))
+- Add song Charlie's Words by John Schneider ([`bc10e19`](https://github.com/icelary/kirk/commit/bc10e1985bc1dbe8e651c41fa4f29356bb8db2a8)) ([@icelary](https://github.com/icelary))
+- Add song Charlie by Jesse Welles ([`866aedd`](https://github.com/icelary/kirk/commit/866aedd212bf9b1f5ba5edbe2f445441f240690a)) ([@icelary](https://github.com/icelary))
+- Add song How Dare They by Diesel ([`237b788`](https://github.com/icelary/kirk/commit/237b788e5a0822263a400f3c9b77361e4f82feb2)) ([@icelary](https://github.com/icelary))
+- Add song Cowards by Mesus ([`479986f`](https://github.com/icelary/kirk/commit/479986f6856a7030d88ec83ceb6c9c3fe3b64eba)) ([@icelary](https://github.com/icelary))
+- Add song Charlie's Torch by Servant Zero ([`153a817`](https://github.com/icelary/kirk/commit/153a817c9a082736c9e61091d9a2fb1f5de911c6)) ([@icelary](https://github.com/icelary))
+
 ## 2025-09-27
 
-## Added
+### Added
 
 - Discuss NajraGalvz tweets ([`b201faf`](https://github.com/icelary/kirk/commit/b201fafb2dec3a57e720c4c6bda8654a868d72db)) ([@icelary](https://github.com/icelary))
 
 ## 2025-09-24
 
-## Added
+### Added
 
 - Discuss stoning gays claim ([`042d2dc`](https://github.com/icelary/kirk/commit/042d2dc56cd6cec2a4813cc23a89657f4bccaee8)) ([@icelary](https://github.com/icelary))
 
