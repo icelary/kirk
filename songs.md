@@ -1,6 +1,6 @@
 # Songs
 
-In the wake of the shooting, several tribute songs were released.
+In the wake of the shooting, several laments and tribute songs were released.
 
 ## Charlie's Words - by John Schneider
 
