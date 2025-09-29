@@ -10,6 +10,10 @@
 - Add song How Dare They by Diesel ([`237b788`](https://github.com/icelary/kirk/commit/237b788e5a0822263a400f3c9b77361e4f82feb2)) ([@icelary](https://github.com/icelary))
 - Add song Cowards by Mesus ([`479986f`](https://github.com/icelary/kirk/commit/479986f6856a7030d88ec83ceb6c9c3fe3b64eba)) ([@icelary](https://github.com/icelary))
 - Add song Charlie's Torch by Servant Zero ([`153a817`](https://github.com/icelary/kirk/commit/153a817c9a082736c9e61091d9a2fb1f5de911c6)) ([@icelary](https://github.com/icelary))
+- Add song The Fight by KillWill ([`449819a`](https://github.com/icelary/kirk/commit/449819afd0a20fe1a514fbca10881563251b3e2d)) ([@icelary](https://github.com/icelary))
+- Add song Charlie Kirk by Loza Alexander ([`cfa577d`](https://github.com/icelary/kirk/commit/cfa577dcc8dfbf758416c8b1bfb4f49c5ea8f415)) ([@icelary](https://github.com/icelary))
+- Add song Stand Your Ground by Gwyn Nightfire ([`f1e8cb3`](https://github.com/icelary/kirk/commit/f1e8cb3943e135a7bdbd60dad9c25724c65165b4)) ([@icelary](https://github.com/icelary))
+- Add song Forever by Dohav ([`d709177`](https://github.com/icelary/kirk/commit/d709177e47bbab06c9462161c8ca0b3558cbf428)) ([@icelary](https://github.com/icelary))
 
 ## 2025-09-27
 
