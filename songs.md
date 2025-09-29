@@ -70,8 +70,8 @@ Released: September 14, 2025
 
 <iframe src="https://suno.com/embed/5a6bc1aa-0e4e-46ed-a622-169c062c2b30" width="560" height="180"></iframe>
 
-Released: September 11, 2025  
-_Produced with AI_
+_Produced with AI_  
+Released: September 11, 2025
 
 > Legends aren't measured by years that they spend  
 > But by causes they champion, the truths they defend
