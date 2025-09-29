@@ -94,7 +94,7 @@ Charlie asserted that homosexuality is a sin.
 
 <details>
   <summary>Video</summary>
-  <iframe frameborder="0" width="315" height="560" src="https://www.youtube.com/embed/2uXwtI88hJA?disablekb=1" allow="fullscreen"></iframe>
+  <iframe frameborder="0" width="315" height="560" src="https://www.youtube.com/embed/2uXwtI88hJA" allow="fullscreen"></iframe>
 </details>
 
 He endorsed heterosexual monogamous marriage and rejected hate toward those who make a different choice.
@@ -107,7 +107,7 @@ He endorsed heterosexual monogamous marriage and rejected hate toward those who 
 
 <details>
   <summary>Video</summary>
-  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/k0hmgxZssQ4?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
+  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/k0hmgxZssQ4?start=80&end=100" allow="fullscreen"></iframe>
 </details>
 
 He advocated acceptance of homosexuals in the conservative movement.
@@ -118,7 +118,7 @@ He advocated acceptance of homosexuals in the conservative movement.
 
 <details>
   <summary>Video</summary>
-  <iframe frameborder="0" width="315" height="560" src="https://www.youtube.com/embed/34N9pIWc_pc?disablekb=1" allow="fullscreen"></iframe>
+  <iframe frameborder="0" width="315" height="560" src="https://www.youtube.com/embed/34N9pIWc_pc" allow="fullscreen"></iframe>
 </details>
 
 > If you say there's something inherently wrong with communicating or associating [with homosexuals] just because they make different personal decisions than you then you, sir, are not a conservative.
@@ -127,7 +127,7 @@ He advocated acceptance of homosexuals in the conservative movement.
 
 <details>
   <summary>Video</summary>
-  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/FJmcqjP8mhk?disablekb=1" allow="fullscreen"></iframe>
+  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/FJmcqjP8mhk" allow="fullscreen"></iframe>
 </details>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
