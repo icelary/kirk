@@ -2,6 +2,19 @@
 
 In the wake of the shooting, several laments and tribute songs were released.
 
+## Stand Your Ground - by Gwyn Nightfire
+
+<audio controls>
+  <source src="/audio/Gwyn Nightfire - Stand Your Ground - Charlie Kirk.mp3" type="audio/mpeg" />
+</audio>
+
+Recorded: September 20, 2025
+
+> It's not about the fame or fight  
+> It's standing tall for what is right  
+> Debate, discuss, and never fold  
+> Let the future be bold
+
 ## Charlie's Words - by John Schneider
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/Tla80FkdxAs?disablekb=1" allow="fullscreen"></iframe>
