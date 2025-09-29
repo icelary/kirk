@@ -4,7 +4,7 @@ In the wake of the shooting, several tribute songs were released.
 
 ## Charlie's Words - by John Schneider
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/Tla80FkdxAs?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/Tla80FkdxAs?disablekb=1" allow="fullscreen"></iframe>
 
 Released: September 19, 2025
 
@@ -15,7 +15,7 @@ Released: September 19, 2025
 
 ## How Dare They - by Diesel
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YcyKR0SzCtA?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YcyKR0SzCtA?disablekb=1" allow="fullscreen"></iframe>
 
 Released: September 15, 2025
 
@@ -26,7 +26,7 @@ Released: September 15, 2025
 
 ## Cowards - by Mesus
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YYDI9LZ4vx4?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YYDI9LZ4vx4?disablekb=1" allow="fullscreen"></iframe>
 
 Released: September 14, 2025
 
@@ -37,7 +37,7 @@ Released: September 14, 2025
 
 ## Charlie's Torch - by Servant Zero
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/3Be7jCQ5xVs?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/3Be7jCQ5xVs?disablekb=1" allow="fullscreen"></iframe>
 
 Released: September 11, 2025
 
@@ -46,7 +46,7 @@ Released: September 11, 2025
 
 ## Charlie - by Jesse Welles
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UCBkt5Nt1wo?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UCBkt5Nt1wo?disablekb=1" allow="fullscreen"></iframe>
 
 Released: September 11, 2025
 
@@ -60,7 +60,7 @@ Released: September 11, 2025
 
 ## Charlie - by Tom MacDonald
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/q8SbeHhNR9k?disablekb=1&start=80&end=100" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/q8SbeHhNR9k?disablekb=1" allow="fullscreen"></iframe>
 
 Released: September 11, 2025
 
