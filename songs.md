@@ -33,6 +33,15 @@ Released: September 15, 2025
 > Crowd froze up when the thunder cracked  
 > Truth on a mic and a life attacked
 
+## Charlie Kirk - by Loza Alexander
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/1xZA8-3LKQc?disablekb=1" allow="fullscreen"></iframe>
+
+Released: September 15, 2025
+
+> I took my very last breath and touched the pearly gates  
+> And the left are becoming everything that they hate
+
 ## Cowards - by Mesus
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YYDI9LZ4vx4?disablekb=1" allow="fullscreen"></iframe>
