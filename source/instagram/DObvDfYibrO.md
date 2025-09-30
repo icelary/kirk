@@ -17,4 +17,4 @@ Charlie Kirk from Turning Point USA was holding a live Q&A at Utah Valley Univer
 
 He got shot in the neck. It sounded like a single rifle shot from behind me. I'm an audience member looking at him; from behind me, to my left.
 
-It looked like he got hit. It looked like his neck exploded. Everybody saw blood, a big. Nobody deserves that.
+It looked like he got hit...it looked like his neck exploded. Everybody saw blood, a big. Nobody deserves that.
