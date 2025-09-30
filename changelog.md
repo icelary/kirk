@@ -1,5 +1,12 @@
 # Changelog
 
+## 2025-09-29
+
+### Added
+
+- Catalog source youtube/jE62NX44-_c ([`3b545b6`](https://github.com/icelary/kirk/commit/3b545b6f696a249577f1bd2180056124e366a325), [`562c921`](https://github.com/icelary/kirk/commit/562c921f6df5ae4b0e6b2f38bb2fe156739d7260), [`bfe84de`](https://github.com/icelary/kirk/commit/bfe84de568f96a3c82b7e607f3e82fe3f6efec83)) ([@icelary](https://github.com/icelary))
+- Transcribe source youtube/jE62NX44-_c ([`fba9387`](https://github.com/icelary/kirk/commit/fba93878c6b7bcf1b862b333afe365e6f582510c)) ([@icelary](https://github.com/icelary))
+
 ## 2025-09-28
 
 ### Added
