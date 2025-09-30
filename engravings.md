@@ -14,5 +14,5 @@ Messages included:
 
 <details>
   <summary>Utah governor reading messages</summary>
-  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/CiS5wXfXiKs?modestbranding=1&start=278&end=321" allow="fullscreen"></iframe>
+  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/CiS5wXfXiKs?start=278&end=321" allow="fullscreen"></iframe>
 </details>
