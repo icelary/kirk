@@ -6,7 +6,7 @@ Posted: September 11, 2025
 
 ## Summary
 
-Witness to the shooting discusses his experienece and calls for discussion over violence.
+Witness to the shooting discusses his experienece and advocates dialogue not violence.
 
 ## Description
 
