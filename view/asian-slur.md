@@ -8,7 +8,7 @@
 
 <details>
   <summary>Video</summary>
-  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/apyCJlSm4Q4?start=141&end=145" allow="fullscreen"></iframe>
+  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/apyCJlSm4Q4?modestbranding=1&start=141&end=145" allow="fullscreen"></iframe>
 </details>
 
 > That time Charlie Kirk called an Asian woman in the audience "chink" multiple times.
@@ -28,7 +28,7 @@ A clip of an argument with an audience member.
 
 <details>
   <summary>Video</summary>
-  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/apyCJlSm4Q4?start=101&end=105" allow="fullscreen"></iframe>
+  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/apyCJlSm4Q4?modestbranding=1&start=101&end=105" allow="fullscreen"></iframe>
 </details>
 
 ## Correction
@@ -43,5 +43,5 @@ The incident occurred at Politicon 2018 during [a debate](https://www.youtube.co
 
 <details>
   <summary>Video</summary>
-  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/_8Dho35c0Vs" allow="fullscreen"></iframe>
+  <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/_8Dho35c0Vs?modestbranding=1" allow="fullscreen"></iframe>
 </details>

@@ -17,7 +17,7 @@ Recorded: September 20, 2025
 
 ## Charlie's Words - by John Schneider
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/Tla80FkdxAs" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/Tla80FkdxAs?modestbranding=1" allow="fullscreen"></iframe>
 
 Released: September 19, 2025
 
@@ -28,7 +28,7 @@ Released: September 19, 2025
 
 ## The Fight - by KillWill
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UoKKBlOVDKU" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UoKKBlOVDKU?modestbranding=1" allow="fullscreen"></iframe>
 
 Released: September 19, 2025
 
@@ -37,7 +37,7 @@ Released: September 19, 2025
 
 ## How Dare They - by Diesel
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YcyKR0SzCtA" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YcyKR0SzCtA?modestbranding=1" allow="fullscreen"></iframe>
 
 Released: September 15, 2025
 
@@ -48,7 +48,7 @@ Released: September 15, 2025
 
 ## Charlie Kirk - by Loza Alexander
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/1xZA8-3LKQc" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/1xZA8-3LKQc?modestbranding=1" allow="fullscreen"></iframe>
 
 Released: September 15, 2025
 
@@ -57,7 +57,7 @@ Released: September 15, 2025
 
 ## Cowards - by Mesus
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YYDI9LZ4vx4" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YYDI9LZ4vx4?modestbranding=1" allow="fullscreen"></iframe>
 
 Released: September 14, 2025
 
@@ -78,7 +78,7 @@ Released: September 11, 2025
 
 ## Charlie's Torch - by Servant Zero
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/3Be7jCQ5xVs" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/3Be7jCQ5xVs?modestbranding=1" allow="fullscreen"></iframe>
 
 Released: September 11, 2025
 
@@ -87,7 +87,7 @@ Released: September 11, 2025
 
 ## Charlie - by Jesse Welles
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UCBkt5Nt1wo" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/UCBkt5Nt1wo?modestbranding=1" allow="fullscreen"></iframe>
 
 Released: September 11, 2025
 
@@ -101,7 +101,7 @@ Released: September 11, 2025
 
 ## Like Charlie - by Sarah Beth Terry
 
-<iframe frameborder="0" width="315" height="560" src="https://www.youtube.com/embed/xjg3FIEdPe4" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="315" height="560" src="https://www.youtube.com/embed/xjg3FIEdPe4?modestbranding=1" allow="fullscreen"></iframe>
 
 Released: September 11, 2025
 
@@ -113,7 +113,7 @@ Released: September 11, 2025
 
 ## Charlie - by Tom MacDonald
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/q8SbeHhNR9k" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/q8SbeHhNR9k?modestbranding=1" allow="fullscreen"></iframe>
 
 Released: September 11, 2025
 

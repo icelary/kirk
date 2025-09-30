@@ -1,6 +1,6 @@
 # Charlie Kirk shooting: 'I knew instantly he wasn't going to survive,' says witness
 
-<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/jE62NX44-_c" allow="fullscreen"></iframe>
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/jE62NX44-_c?modestbranding=1" allow="fullscreen"></iframe>
 
 Posted: September 11, 2025
 
