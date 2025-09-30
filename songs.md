@@ -99,6 +99,18 @@ Released: September 11, 2025
 > But it could have been you  
 > It could have been me
 
+## Like Charlie - by Sarah Beth Terry
+
+<iframe frameborder="0" width="315" height="560" src="https://www.youtube.com/embed/xjg3FIEdPe4" allow="fullscreen"></iframe>
+
+Released: September 11, 2025
+
+> How was your first night up in Heaven?  
+> Did you get a chance to look around?  
+> Did the Lord say He was pleased  
+> Then handed you the keys  
+> To that big old mansion out on the edge of town?
+
 ## Charlie - by Tom MacDonald
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/q8SbeHhNR9k" allow="fullscreen"></iframe>
