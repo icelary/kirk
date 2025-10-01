@@ -63,8 +63,7 @@ Released: September 15, 2025
 
 > When we murder peaceful dialogue  
 > We give birth to bloody war  
-> Charlie knew free speech  
-> Is worth dying for
+> Charlie knew free speech is worth dying for
 
 ## Cowards - by Mesus
 
