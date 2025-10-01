@@ -1,5 +1,14 @@
 # Changelog
 
+## 2025-09-30
+
+### Added
+
+- Catalog source instagram/DObvDfYibrO ([`cbdf190`](https://github.com/icelary/kirk/commit/cbdf1905d8862aa6874d6616acb9b939646d1452)) ([@icelary](https://github.com/icelary))
+- Catalog source youtube/BLaZhNFH9Pw ([`58fc3e7`](https://github.com/icelary/kirk/commit/58fc3e77c574607a185fbf6d9b1813c7dd05ce3e)) ([@icelary](https://github.com/icelary))
+- Catalog source youtube/nG6qqdhSmUs ([`ed0eb8a`](https://github.com/icelary/kirk/commit/ed0eb8a2c82ca599cb69e5feaf9e079635ec33e3)) ([@icelary](https://github.com/icelary))
+- Add song The Senseless Death of Charlie Kirk ([`ca12f98`](https://github.com/icelary/kirk/commit/ca12f98671e3627f35720f3729b5c2fe757a157c)) ([@icelary](https://github.com/icelary))
+
 ## 2025-09-29
 
 ### Added
