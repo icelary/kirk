@@ -22,6 +22,12 @@ A questioner approached the microphone and raised the topic of transgender mass 
 
 At this point a shot was fired that hit Charlie Kirk in the neck. He was rushed to the hospital. Shortly after 2 PM, he was pronounced dead.
 
+## Reaction
+
+Some people [celebrated](celebration.md) the murder.
+
+Disputes arose over the [character and views](views.md) of Charlie and his wife Erika. Claims about Charlie Kirk include that he was a racist, a white supremacist, a white nationalist, a homophobe, a misogynist, a transphobe, an antisemite, a fascist, a Nazi, a psychopath, and a stochastic terrorist, [used an Asian slur](view/asian-slur.md), would not trust a black pilot, believed black women lack brain processing power, believed the Civil Rights Act was a mistake, [believed in stoning gays to death](view/stoning-gays.md), called for lynching trans people, worked to remove the rights of minorities, derided empathy as worthless, promoted hate, promoted violence, and that his last words were a racist dogwhistle. Claims about Erika Kirk include that she is a psychopath, an Israeli honey trap for Charlie, was a recruiter for Jeffrey Epstein, started and joined a dating app a week after the assassination, and trafficked Romanian children for organ harvesting.
+
 ## Investigation
 
 Authorities began an investigation the same day. A rifle was found in a wooded area nearby. Bullet casings found with the rifle were [engraved with messages](engravings.md).
@@ -32,4 +38,4 @@ Some online material seemed to indicate [foreknowledge](foreknowledge.md) of the
 
 ## Public Response
 
-Disputes arose over [the views of Charlie Kirk](views.md). Some people [celebrated](celebration.md) his murder. Some people [were fired or experienced other backlash](backlash.md) for their response to the event. Several [laments and tribute songs](songs.md) were released.
+Some people [were fired or experienced other backlash](backlash.md) for their response to the event. Several [laments and tribute songs](songs.md) were released.
