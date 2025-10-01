@@ -55,6 +55,17 @@ Released: September 15, 2025
 > I took my very last breath and touched the pearly gates  
 > And the left are becoming everything that they hate
 
+## The Senseless Death of Charlie Kirk - by Tennessee Jet
+
+<iframe frameborder="0" width="315" height="560" src="https://www.youtube.com/embed/TpH3PURvUy4" allow="fullscreen"></iframe>
+
+Released: September 15, 2025
+
+> When we murder peaceful dialogue  
+> We give birth to bloody war  
+> Charlie knew free speech  
+> Is worth dying for
+
 ## Cowards - by Mesus
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YYDI9LZ4vx4" allow="fullscreen"></iframe>
