@@ -1,5 +1,12 @@
 # Changelog
 
+## 2025-10-01
+
+### Added
+
+- Recount claims about Charlie and Erika ([`c18134e`](https://github.com/icelary/kirk/commit/c18134eb06112cb2e790aff9c8060bfd4c40b08a)) ([@icelary](https://github.com/icelary))
+- Add song A Song for Charlie Kirk by Bryson Gray ([`510d0ae`](https://github.com/icelary/kirk/commit/510d0ae15c0e73690ffc9a655ced0eb464e74773)) ([@icelary](https://github.com/icelary))
+
 ## 2025-09-30
 
 ### Added
