@@ -76,6 +76,16 @@ Released: September 14, 2025
 > And you celebrate in public like you love it  
 > So disgusted
 
+## A Song for Charlie Kirk - by Bryson Gray
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/8rWoO3mQ8NQ" allow="fullscreen"></iframe>
+
+Released: September 13, 2025
+
+> As I scroll online I cannot believe what I'm reading  
+> People celebrating a man that was murdered for no reason  
+> Imagine dying simply cause you have a different way of thinking
+
 ## Forever - by Dohav
 
 <iframe src="https://suno.com/embed/5a6bc1aa-0e4e-46ed-a622-169c062c2b30" width="560" height="180"></iframe>
