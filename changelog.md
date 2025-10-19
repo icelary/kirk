@@ -1,5 +1,11 @@
 # Changelog
 
+## 2025-10-19
+
+### Added
+
+- Add song Legacy by Jack Conrad ([`66e7325`](https://github.com/icelary/kirk/commit/66e73258282b5da10cd6c645996e9211f71f1247)) ([@icelary](https://github.com/icelary))
+
 ## 2025-10-01
 
 ### Added
