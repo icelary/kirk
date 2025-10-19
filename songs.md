@@ -96,6 +96,17 @@ Released: September 11, 2025
 > Legends aren't measured by years that they spend  
 > But by causes they champion, the truths they defend
 
+## Legacy - by Jack Conrad
+
+<iframe frameborder="0" width="315" height="560" src="https://www.youtube.com/embed/aSbHgK7TCVM" allow="fullscreen"></iframe>
+
+Released: September 11, 2025
+
+> My heart breaks for his little girl  
+> Knowing Daddy ain't coming home  
+> What kind of world we living in  
+> One where killing a father is condoned
+
 ## Charlie's Torch - by Servant Zero
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/3Be7jCQ5xVs" allow="fullscreen"></iframe>
