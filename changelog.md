@@ -5,6 +5,7 @@
 ### Added
 
 - Add song Legacy by Jack Conrad ([`66e7325`](https://github.com/icelary/kirk/commit/66e73258282b5da10cd6c645996e9211f71f1247)) ([@icelary](https://github.com/icelary))
+- Add song Not in Vain by AMiYAH ([`ad2a287`](https://github.com/icelary/kirk/commit/ad2a287deae056a45764c8f1ff0426f1d2b0dbb3)) ([@icelary](https://github.com/icelary))
 
 ## 2025-10-01
 
