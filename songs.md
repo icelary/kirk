@@ -118,6 +118,16 @@ Released: September 11, 2025
 > What kind of world we living in  
 > One where killing a father is condoned
 
+## Where Did We Go Wrong - by Garrett Lopez
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/5op204kix4Q" allow="fullscreen"></iframe>
+
+Released: September 11, 2025
+
+> Where did we go wrong  
+> Where a difference of opinion  
+> Deems the value of a man's life
+
 ## Charlie's Torch - by Servant Zero
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/3Be7jCQ5xVs" allow="fullscreen"></iframe>
