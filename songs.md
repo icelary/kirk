@@ -35,6 +35,17 @@ Released: September 19, 2025
 > The media be claiming he's a fascist spreading hate  
 > So y'all get violent when you know that you can't debate
 
+## Not in Vain - by AMiYAH
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/3wC4JbE-AUQ" allow="fullscreen"></iframe>
+
+Released: September 16, 2025
+
+> Voices rose in a crowded room  
+> Truth was spoken and an echo boomed  
+> The world turns violent, blinded by hate  
+> And a servant of Christ met Heaven's gates
+
 ## How Dare They - by Diesel
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/YcyKR0SzCtA" allow="fullscreen"></iframe>
