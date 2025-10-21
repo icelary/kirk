@@ -6,6 +6,7 @@
 
 - Add song Where Did We Go Wrong by Garrett Lopez ([`7f0031f`](https://github.com/icelary/kirk/commit/7f0031f131119ad84f0ec0ff8ec00c4c3c398cf4)) ([@icelary](https://github.com/icelary))
 - Catalog source youtube/cQtRmAtmcfY ([`4d4b09a`](https://github.com/icelary/kirk/commit/4d4b09a7bc1b32fdd0b57cd6cd24ff997e6c056b)) ([@icelary](https://github.com/icelary))
+- Add song I Am Charlie by Servant Zero ([`1b8e247`](https://github.com/icelary/kirk/commit/1b8e2475c4010d80dbde09d4331329e61e119367)) ([@icelary](https://github.com/icelary))
 
 ## 2025-10-19
 
