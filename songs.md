@@ -97,6 +97,15 @@ Released: September 13, 2025
 > People celebrating a man that was murdered for no reason  
 > Imagine dying simply cause you have a different way of thinking
 
+## I Am Charlie - by Servant Zero
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/J3Son49RAvo" allow="fullscreen"></iframe>
+
+Released: September 11, 2025
+
+> From the ashes a movement ignites  
+> Truth still speaks and it won't be silenced
+
 ## Forever - by Dohav
 
 <iframe src="https://suno.com/embed/5a6bc1aa-0e4e-46ed-a622-169c062c2b30" width="560" height="180"></iframe>
