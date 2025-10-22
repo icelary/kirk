@@ -1,5 +1,11 @@
 # Changelog
 
+## 2025-10-21
+
+### Added
+
+- Add song Turning Point by The Marine Rapper([`d559108`](https://github.com/icelary/kirk/commit/d55910828ffac38e91c4dd5959e35d59be2df79f)) ([@icelary](https://github.com/icelary))
+
 ## 2025-10-20
 
 ### Added
