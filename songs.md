@@ -35,6 +35,16 @@ Released: September 19, 2025
 > The media be claiming he's a fascist spreading hate  
 > So y'all get violent when you know that you can't debate
 
+## Turning Point (Prove Me Wrong) - by The Marine Rapper
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/5_s3yShP4EY?end=140" allow="fullscreen"></iframe>
+
+Released: September 17, 2025
+
+> Still can't believe that they killed him  
+> He was just talking to kids at the colleges  
+> Still can't believe that they filmed it
+
 ## Not in Vain - by AMiYAH
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/3wC4JbE-AUQ" allow="fullscreen"></iframe>
