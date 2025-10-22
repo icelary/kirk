@@ -35,7 +35,7 @@ Released: September 19, 2025
 > The media be claiming he's a fascist spreading hate  
 > So y'all get violent when you know that you can't debate
 
-## Turning Point (Prove Me Wrong) - by The Marine Rapper
+## Turning Point (Prove Me Wrong) -<br />by The Marine Rapper
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/5_s3yShP4EY?end=140" allow="fullscreen"></iframe>
 
@@ -76,7 +76,7 @@ Released: September 15, 2025
 > I took my very last breath and touched the pearly gates  
 > And the left are becoming everything that they hate
 
-## The Senseless Death of Charlie Kirk - by Tennessee Jet
+## The Senseless Death of Charlie Kirk -<br />by Tennessee Jet
 
 <iframe frameborder="0" width="315" height="560" src="https://www.youtube.com/embed/TpH3PURvUy4" allow="fullscreen"></iframe>
 
