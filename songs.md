@@ -2,6 +2,17 @@
 
 In the wake of the shooting, several laments and tribute songs were released.
 
+## Tipping Point - by Samson
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/zZBQUvfl7xI" allow="fullscreen"></iframe>
+
+Released: October 3, 2025
+
+> Couldn't last in a debate  
+> So they had to get physical  
+> Got smashed verbally  
+> So they resorted back to trigger pulls
+
 ## Stand Your Ground - by Gwyn Nightfire
 
 <audio controls>
