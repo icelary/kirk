@@ -1,5 +1,11 @@
 # Changelog
 
+## 2025-10-23
+
+### Added
+
+- Add song Tipping Point by Samson ([`0148e1e`](https://github.com/icelary/kirk/commit/0148e1e73d8d6ce3781e645d98b7959d848ed2b1)) ([@icelary](https://github.com/icelary))
+
 ## 2025-10-21
 
 ### Added
