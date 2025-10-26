@@ -118,6 +118,17 @@ Released: September 13, 2025
 > People celebrating a man that was murdered for no reason  
 > Imagine dying simply cause you have a different way of thinking
 
+## A Hymn of Remembrance for Charlie Kirk -<br />by JeauxBeaux
+
+<iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/g_65yj8JfOY" allow="fullscreen"></iframe>
+
+Released: September 11, 2025
+
+> In Utah's halls  
+> The moment came  
+> A shot rang out  
+> It carved our pain
+
 ## I Am Charlie - by Servant Zero
 
 <iframe frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/J3Son49RAvo" allow="fullscreen"></iframe>
