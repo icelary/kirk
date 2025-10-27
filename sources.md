@@ -6,6 +6,8 @@
   2025-09-11 - Video, Press
 - [Charlie Kirk shooting witness says she saw "blood pouring out everywhere"](source/youtube/nG6qqdhSmUs.md)  
   2025-09-10 - Audio, Press, Witness
+- [Eyewitness to Charlie Kirk shooting describes scene](source/youtube/kAoupP5xqr0.md)  
+  2025-09-10 - Video, Press, Witness
 - [Charlie Kirk shooting: Eyewitness describes scene in Utah](source/youtube/BLaZhNFH9Pw.md)  
   2025-09-10 - Video, Press, Witness
 - [Still trying to get out of the UVU parking lot](source/instagram/DObvDfYibrO.md)  
