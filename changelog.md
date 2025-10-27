@@ -1,5 +1,12 @@
 # Changelog
 
+## 2025-10-26
+
+### Added
+
+- Add song A Hymn of Remembrance for Charlie Kirk ([`bf8a888`](https://github.com/icelary/kirk/commit/bf8a888caa88824582aa84a7edc9c23e6492cf64)) ([@icelary](https://github.com/icelary))
+- Catalog source youtube/kAoupP5xqr0 ([`59e856a`](https://github.com/icelary/kirk/commit/59e856a37b08b9ce034b75d0e1c7195ff3333195), [`fcfbf25`](https://github.com/icelary/kirk/commit/fcfbf25ee3dc99b451cdef2810e5930f9e4925bc)) ([@icelary](https://github.com/icelary))
+
 ## 2025-10-23
 
 ### Added
